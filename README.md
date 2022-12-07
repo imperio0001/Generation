@@ -1,2 +1,2 @@
 # Generation
-Exercícios do Curso Generetion
+Exercícios do Curso Generetion.
